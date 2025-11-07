@@ -222,4 +222,4 @@ Each results directory contains comparison graphs and brief summaries of algorit
 **David Jayakumar**  
 Final Year Project 2024/2025
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-profile) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/DavidJ7705)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/david-jayakumar) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/DavidJ7705)
